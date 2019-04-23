@@ -3,7 +3,8 @@ class AirTable:
     BASE = ''
     PROJECT_TABLE_NAME = ''
     SINGLE_SELECT_FIELD = ''
-
+    ASSIGNEE_FIELD = ''
+    
     user_A = {
         'id': 'usrxxxxxxxxxxxxxx',
         'email': 'john.doe@email.com',

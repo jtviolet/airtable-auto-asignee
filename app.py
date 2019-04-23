@@ -37,7 +37,7 @@ def get_projects():
 def update_project_owner(single_select_field, record_id):
     new_owner_data = {
         'fields': {
-            at.SINGLE_SELECT_FIELD: at.steps_owners[single_select_field]
+            at.ASSIGNEE_FIELD: at.steps_owners[single_select_field]
         }
     }
 

@@ -22,7 +22,7 @@ def main():
             if current_assignee is not next_assignee:
                 update_project_owner(current_single_select_value, record_id)
     except:
-        print("There was a problem. Likely, the 'Current Stage' was not set for a record.")
+        print("There was a problem. Likely, the single-select field was not set for a record.")
 
 
 # get a list of projects from airtable

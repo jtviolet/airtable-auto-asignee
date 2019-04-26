@@ -25,9 +25,9 @@ def main():
                     print('No need to auto-assign assignee--correct assignee is already in place.')
             else:
                 update_project_owner(current_single_select_value, record_id)
-
         else:
             print('No need to auto-assign asignee--single-select value is not present.')
+
 
 
 # get a list of projects from airtable

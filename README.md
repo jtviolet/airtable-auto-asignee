@@ -23,4 +23,4 @@ Run the program with `python ./app.py` from the root directory.
 
 ### How It Works
 Here is how it works:
-![](https://github.com/jtviolet/MyFiles/blob/master/airtableautomation.gif =640x360)
+<img src="https://github.com/jtviolet/MyFiles/blob/master/airtableautomation.gif" width="640" height="360" />

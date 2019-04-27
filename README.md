@@ -3,10 +3,12 @@ This will allow you to automate the change of an asignee in AirTable based on a 
 
 ## Prerequisites
 You will first need to create a new table in your AirTable base. Make note of this name, you will need it later. The table should have the following metadata:
+
 | Column Name  | AirTable Data Type  |
 |---|---|
 | `Project Phase`  | Single line Text  |
 | `Assignee`  | Collaborator  |
+
 **NOTE: Your `Project Phase` values must match your single-select phase values in your project table 1:1.**
 
 ## Setup

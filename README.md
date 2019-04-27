@@ -9,7 +9,8 @@ You will first need to create a new table in your AirTable base. Make note of th
 | `Project Phase`  | Single line Text  |
 | `Assignee`  | Collaborator  |
 
-Here is an example AirTable Base: [Link to Example AirTable Base](https://airtable.com/shrrrKL1ZFNsCDp3Z)
+Here is an example AirTable Base: [Link to Example AirTable Base](https://airtable.com/shrrrKL1ZFNsCDp3Z).
+
 **NOTE: Your `Project Phase` values must match your single-select phase values in your project table 1:1.**
 
 ## Setup
